@@ -5,12 +5,15 @@
 An Arduino-based wifi controller for Christmas Lights.
 
 ## :movie_camera: Tutorial
-[Youtube video](https://www.youtube.com/watch?v=jXaGD2t4H4I)
+- [Youtube video](https://www.youtube.com/watch?v=jXaGD2t4H4I)
 
 ## :wrench: Components
-- [Wemos Mini S2](https://www.youtube.com/watch?v=jXaGD2t4H4I)
-- [L298N motor driver](https://www.youtube.com/watch?v=jXaGD2t4H4I)
-- [5V step-down converter](https://www.youtube.com/watch?v=jXaGD2t4H4I)ù
+- [Wemos Mini S2](https://www.wemos.cc/en/latest/s2/s2_mini.html)
+- [L298N motor driver](https://www.aliexpress.com/w/wholesale-l298n-motor-driver.html)
+- [5V step-down converter](https://www.aliexpress.com/w/wholesale-5v-step-down-module.html)
+
+## :dart: Wiring
+![](https://github.com/lucadentella/ArduinoChristmasLights/raw/main/images/wiring.jpg)
 
 ## :floppy_disk: Firmware
  - [Main firmware](https://github.com/lucadentella/ArduinoChristmasLights/tree/main/firmware/ArduinoChristmasLights)
