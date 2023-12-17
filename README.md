@@ -15,6 +15,9 @@ An Arduino-based wifi controller for Christmas Lights.
 ## :dart: Wiring
 ![](https://github.com/lucadentella/ArduinoChristmasLights/raw/main/images/wiring.jpg)
 
+## :rotating_light: Web interface
+![](https://github.com/lucadentella/ArduinoChristmasLights/raw/main/images/webui.jpg)
+
 ## :floppy_disk: Firmware
  - [Main firmware](https://github.com/lucadentella/ArduinoChristmasLights/tree/main/firmware/ArduinoChristmasLights)
  
