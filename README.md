@@ -1,6 +1,6 @@
 # ArduinoChristmasLights
 
-![](https://github.com/lucadentella/ArduinoChristmasLights/raw/main/images/wiring.jpg)
+![](https://github.com/lucadentella/ArduinoChristmasLights/raw/main/images/project.jpg)
 
 An Arduino-based wifi controller for Christmas Lights.
 
