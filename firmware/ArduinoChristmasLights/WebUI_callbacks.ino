@@ -53,5 +53,6 @@ void buttonResetCallback(Control* sender, int type) {
   preferences.putInt("blink-speed", DEFAULT_BLINK_SPEED);
   preferences.putInt("fade-speed", DEFAULT_FADE_SPEED);
   preferences.end();
+  wifiManager.resetSettings();
   ESP.restart();
 }
