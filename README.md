@@ -5,7 +5,7 @@
 An Arduino-based wifi controller for Christmas Lights.
 
 ## :movie_camera: Tutorial
-- [Youtube video](https://www.youtube.com/watch?v=jXaGD2t4H4I)
+- [Youtube video](https://youtu.be/vOHDjR1nToo)
 
 ## :wrench: Components
 - [Wemos Mini S2](https://www.wemos.cc/en/latest/s2/s2_mini.html)
